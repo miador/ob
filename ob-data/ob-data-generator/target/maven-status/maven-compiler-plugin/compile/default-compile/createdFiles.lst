@@ -1,0 +1,10 @@
+org/ob/data/model/PaymentGenerator.class
+META-INF/native-image/picocli-generated/resource-config.json
+org/ob/data/model/ContactGenerator.class
+org/ob/data/model/AccountGenerator.class
+org/ob/data/model/TransactionGenerator.class
+org/ob/data/model/CustomerGenerator.class
+META-INF/native-image/picocli-generated/reflect-config.json
+org/ob/data/GeneratorCLI.class
+META-INF/native-image/picocli-generated/proxy-config.json
+org/ob/data/GraphGenerator.class
